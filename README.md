@@ -55,7 +55,7 @@ Explore informative videos on Zettelkasten:
 
 1. [The process of writing World History of Design](https://www.youtube.com/watch?v=Kxyy0THLfuI) - Highly recommended! This video provides valuable insights into the use of annotations and note-taking in the process of writing the two volumes of the book "World History of Design." It's not just a methodological guide but also an inspirational journey that showcases the creative aspects of the writing process.
 2. ["Antinet" Zettelkasten Book Club Meeting](https://www.youtube.com/watch?v=AVma3xZg0gQ)
-3. [The Scott P. Scheper channel](https://www.youtube.com/watch?v=bP7AXjA4O6U&list=PLSofW8L-FnU-Z8BFXqv8JZt5Cp0mj2_Eb) - Scott P. Scheper is the autor of the book Antinet
+3. [The Scott P. Scheper channel](https://www.youtube.com/watch?v=bP7AXjA4O6U&list=PLSofW8L-FnU-Z8BFXqv8JZt5Cp0mj2_Eb) - Scott P. Scheper is the autor of the Antinet book
 
 ## Community
 
