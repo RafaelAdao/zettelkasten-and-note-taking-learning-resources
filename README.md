@@ -1,10 +1,10 @@
 # Zettelkasten Learning Resources
 
-Welcome to the "Zettelkasten Learning Resources" repository! This space is dedicated to gathering and sharing resources related to Zettelkasten, a note-taking and knowledge management method.
+Welcome to the "Zettelkasten Learning Resources" repository! This space is dedicated to gathering and sharing resources related to Zettelkasten, a note-taking and knowledge development method.
 
 ## What is Zettelkasten?
 
-Zettelkasten, German for "slip box," is a note-taking system developed to facilitate learning and creative thinking. It was popularized by Niklas Luhmann, a German sociologist.
+Zettelkasten, German for "slip box," is a note-taking system developed to facilitate learning, creative thinking, and content production. It was popularized by Niklas Luhmann, a German sociologist.
 
 ## Table of Contents
 
