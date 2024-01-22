@@ -26,7 +26,7 @@ If you're new to Zettelkasten, here are some resources to help you get started:
 - [Zettelkasten Method Overview](https://zettelkasten.de/posts/overview/)
 - [Setting Up Your Zettelkasten](https://rafaeladao.substack.com/p/anotacoes-com-zettelkasten)
 - [What is a Zettelkasten? from Reddit](https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/)
-- [Antinet, 100% analog and paper-based approach to Zettelkasten!](https://zettelkasten.de/posts/introduction-antinet-zettelkasten/) I haven't read this book yet, so I can't recommend it, but I'm listing it here just as a link. As soon as I read it, I'll update here whether it's worth it or not.
+- [Antinet, 100% analog and paper-based approach to Zettelkasten!](https://zettelkasten.de/posts/introduction-antinet-zettelkasten/)
 
 ## Articles
 
@@ -40,7 +40,7 @@ Recommended books to deepen your understanding of Zettelkasten:
 
 1. [Getting Started With an Antinet Zettelkasten](https://www.scottscheper.com/free-guide)
 2. [Antinet Zettelkasten: A Knowledge System That Will Turn You Into a Prolific Reader, Researcher and Writer](https://www.scottscheper.com/antinet)
-3. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.soenkeahrens.de/en/takesmartnotes)
+3. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.soenkeahrens.de/en/takesmartnotes) I haven't read this book yet, so I can't recommend it, but I'm listing it here just as a link. As soon as I read it, I'll update here whether it's worth it or not.
 
 ## Tools
 
