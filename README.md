@@ -1,4 +1,4 @@
-# Zettelkasten Learning Resources
+# Zettelkasten and Note Taking Learning Resources
 
 Welcome to the "Zettelkasten Learning Resources" repository! This space is dedicated to gathering and sharing resources related to Zettelkasten, a note-taking and knowledge development method.
 
