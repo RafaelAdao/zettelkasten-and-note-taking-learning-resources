@@ -40,7 +40,7 @@ Recommended books to deepen your understanding of Zettelkasten:
 
 1. [Getting Started With an Antinet Zettelkasten](https://www.scottscheper.com/free-guide)
 2. [Antinet Zettelkasten: A Knowledge System That Will Turn You Into a Prolific Reader, Researcher and Writer](https://www.scottscheper.com/antinet)
-3. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.soenkeahrens.de/en/takesmartnotes) I haven't read this book yet, so I can't recommend it, but I'm listing it here just as a link. As soon as I read it, I'll update here whether it's worth it or not.
+3. ⚠️ [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.soenkeahrens.de/en/takesmartnotes) You can read this but with caution, as it is suggest varius approaches that runs away from the original Zettelkasten method. But is the easiest book to find about the subject.
 
 ## Tools
 
